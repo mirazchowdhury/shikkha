@@ -1,13 +1,32 @@
-.heading-font {
-    font-weight: 700px;
-    font-size: 60px;
-}
+ /* body {
+     font-family: 'DM Sans', sans-serif;
+ } */
 
-.ed-text {
-    font-weight: 400px;
-    font-size: 18px;
-}
+ .heading-font {
+     font-weight: 700px;
+     font-size: 60px;
+ }
 
-.carousel-cover {
-    height: 650px;
-}
+ .ed-text {
+     font-weight: 400px;
+     font-size: 25px;
+ }
+
+ .carousel-cover {
+     height: 650px;
+ }
+
+ .heading-courses {
+     font-weight: 700px;
+     font-size: 60px;
+ }
+
+ /* .ed-bg-info {
+     width: 182px;
+     height: 56px;
+     border: 1px solid #289BDE;
+     background-color: #289BDE;
+     color: white;
+     border-radius: 5px;
+     padding: 13px 33px;
+ } */
